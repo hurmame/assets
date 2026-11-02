@@ -1,0 +1,11 @@
+{
+  "source_commit": "9bd1116c5acc89ff1fcd2fd285ed9c4278cdfd72",
+  "files": {
+    "geoip.dat": {
+      "sha256": "064db8483b82917402e8877712a0955247e0ae95a828bf3da51ca30af7a63cf3"
+    },
+    "geosite.dat": {
+      "sha256": "07b73c1c3b5a059dd3cb257097af3509796400743498d9edc23da66b70e196d1"
+    }
+  }
+}
