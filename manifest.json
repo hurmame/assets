@@ -2,7 +2,7 @@
   "source_commit": "9bd1116c5acc89ff1fcd2fd285ed9c4278cdfd72",
   "files": {
     "geoip.dat": {
-      "sha256": "41b9d70145d0e21b6d09c5a2369a7ce4aa097f1a23ceaf8b8e8b7879026f4c81"
+      "sha256": "c1c7b7b5f017cc837e0f798ec70aedbd77aa5e5f3da022866ec2e19414fa2e8c"
     },
     "geosite.dat": {
       "sha256": "923ec8d12eb6dd314786e8ac44c20b581b15ab4d0169e1d5aaac58a1d515a4eb"
