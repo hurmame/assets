@@ -1,11 +1,17 @@
 {
-  "source_commit": "9bd1116c5acc89ff1fcd2fd285ed9c4278cdfd72",
+  "source_commit": "ddb6266e0b139470e4dbed4a216a9f0dfe0425ea",
+  "base_assets_commit": "2e5245b93bd1e49e3797782a9297bee9fb547121",
+  "whitelist_source": {
+    "repository": "hydraponique/roscomvpn-geosite",
+    "commit": "300324058785ffab06df8725e18969f835d73618",
+    "path": "data/whitelist"
+  },
   "files": {
     "geoip.dat": {
       "sha256": "064db8483b82917402e8877712a0955247e0ae95a828bf3da51ca30af7a63cf3"
     },
     "geosite.dat": {
-      "sha256": "07b73c1c3b5a059dd3cb257097af3509796400743498d9edc23da66b70e196d1"
+      "sha256": "331d0111f05aa162ac5307b185fe09e62f735a752039174911782540e926df35"
     }
   }
 }
